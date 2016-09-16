@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)
-{ int i,j;
-  for (i=0;i<5;i++)
-  printf("Hello github!\n");
+{ int i;
+  for (i=0;i<6;i++)
+  printf("Hello Github!\n");
   return 0;
 }
