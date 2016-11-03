@@ -1,3 +1,5 @@
+// C++ tester
+
 // SEN KOLL MED const i min(..), cppcon sutter
 #include ....
 int min(int x,int y)
